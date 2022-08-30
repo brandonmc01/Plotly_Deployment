@@ -12,4 +12,3 @@ The dashboard shows:
 - When hovering over the bar chart, and bubble chart, a popup will show exact frequency as well as the bacteria's name.
 
 ![image](resources/website_screenshot.PNG)
-
