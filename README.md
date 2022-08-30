@@ -11,5 +11,5 @@ The dashboard shows:
 - A bubble chart showing all bacterial cultures found, and their frequency. 
 - When hovering over the bar chart, and bubble chart, a popup will show exact frequency as well as the bacteria's name.
 
-![image](resources/website_screenshot.PNG)
+![Image](resources/website_screenshot.PNG)
 
